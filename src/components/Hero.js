@@ -10,10 +10,11 @@ const Hero = () => {
           <b> child's healthcare </b> aiding
           <b> industry professionals </b> for the
           <b> best outcome</b> */}
-          Log, track your child's <b> daily chart</b>, manage symptoms, share
-          get
-          <b> feedback</b> from experts and forums, save <b> time and money</b>{" "}
-          on referrals, access to information and links
+          <b>Log</b>, <b>track</b> your child's <b> daily chart</b>,{" "}
+          <b>manage symptoms</b>, share get
+          <b> feedback</b> from <b>experts</b> and forums, save{" "}
+          <b> time and money</b> on <b>referrals</b>, access to information and
+          <b> links</b>
         </div>
 
         <div className="userRegBtnWrap">

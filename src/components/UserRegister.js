@@ -19,11 +19,12 @@ const UserRegister = () => {
                   <span>child's healthcare </span> aiding{" "}
                   <span>industry professionals </span> for the{" "}
                   <span> best outcome</span> */}
-                  Log, track your child's <span>daily chart</span>, manage
-                  symptoms, share get <span>feedback</span> from experts and
+                  <span>Log</span>, <span>track</span> your child's{" "}
+                  <span>daily chart</span>, <span>manage symptoms</span> , share
+                  get <span>feedback</span> from <span>experts</span> and
                   forums, save
-                  <span> time and money</span> on referrals, access to
-                  information and links
+                  <span> time and money</span> on <span>referrals</span>, access
+                  to information and <span>links</span>
                 </p>
 
                 <div className="registerBtnWrap">

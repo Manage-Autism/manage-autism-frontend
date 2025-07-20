@@ -85,6 +85,9 @@ const Wrapper = styled.div`
     background: #f1f9ff 0% 0% no-repeat padding-box;
     opacity: 1;
     padding: 40px 0px;
+    .container {
+      padding: 20px 0px !important;
+    }
     .subsWrap {
       display: flex;
       flex-direction: column;
@@ -107,14 +110,14 @@ const Wrapper = styled.div`
           height: 40px;
           border: none;
           outline: none;
-          padding: 13px 18px;
+          padding: 13px 11px;
           border-top-left-radius: 20px;
           border-bottom-left-radius: 20px;
         }
         button {
           background: #2699fb 0% 0% no-repeat padding-box;
           opacity: 1;
-          width: 122px;
+          width: 102px;
           height: 40px;
           text-align: center;
           font: normal normal bold 14px/12px Arial;
@@ -125,6 +128,7 @@ const Wrapper = styled.div`
           outline: none;
           border-top-right-radius: 20px;
           border-bottom-right-radius: 20px;
+          cursor: pointer;
         }
       }
     }
